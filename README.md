@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Mock Twitter*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Mock Twitter** is a basic twitter app to read your latest tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -23,3 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+https://github.com/harmichimo/mock-twitter-app/blob/main/Demo/mock-twitter-demo.gif
