@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/harmichimo/mock-twitter-app/blob/main/Demo/mock-twitter-demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ___________________________________________________________________________________
 
 # Twitter - Part I
